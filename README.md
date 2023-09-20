@@ -39,3 +39,7 @@
 - Split, Dubrovnik, Croatia 🇭🇷
 - London, England 🇬🇧
 - Paris, France 🇫🇷
+
+### 3.2 🧢 옷
+- 
+- 
