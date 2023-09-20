@@ -2,6 +2,7 @@
 ### 1.1 profile
 
 
+
 - 이름: 변정훈  
 - 생년월일: 1998-08-09   
 - Github: https://github.com/owllwo98   
