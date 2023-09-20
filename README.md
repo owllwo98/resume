@@ -1,7 +1,6 @@
 # 1. Outline 
 ### 1.1 profile
 
-![IMG_4967](https://github.com/owllwo98/resume/assets/93505724/61a129e4-f8c1-4649-8cf5-fec6a0930860)
 
 - 이름: 변정훈  
 - 생년월일: 1998-08-09   
