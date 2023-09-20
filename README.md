@@ -22,3 +22,20 @@
 ### 2.3 💾 Database
 - DBMS
 - SQL
+
+# 3. Hobby
+### 3.1 🌏 여행
+- Bali, Indonesia 🇮🇩
+- Bangkok, Pattaya, Phuket, Thailand 🇹🇭
+- Da Nang, Vietnam 🇻🇳
+- Cebu, Manila, Philippines 🇵🇭
+- Hong Kong, Macau 🇭🇰, 🇲🇴
+- Shanghai, China 🇨🇳
+- Maldives 🇲🇻
+- Tokyo Sapporo, Japan 🇯🇵
+- Singapore 🇸🇬
+- Taiwan 🇹🇼
+- Rome, Florence, Italy 🇮🇹
+- Split, Dubrovnik, Croatia 🇭🇷
+- London, England 🇬🇧
+- Paris, France 🇫🇷
